@@ -1,0 +1,94 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Local environment files
+.env
+.env.*
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Debug
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# pnpm store
+.pnpm-store
+
+# Misc
+*.tgz
+*.bak
+*.tmp
+*.temp
+*.log.*
+
+# Testing
+jest-stare/
+cypress/videos/
+cypress/screenshots/
+playwright-report/
+test-results/
+
+# IDE Specific
+*.iml
+
+# Mac/Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VSCode profiles
+.vscode-test
+
+# Storybook build outputs
+out/
+storybook-static/
+
+# Next.js (if ever used together)
+.next/
+out/
+
+# Expo / React Native (optional if you ever use mobile)
+.expo/
+.expo-shared/
+
+# Docker
+.docker/
+docker-compose.override.yml
