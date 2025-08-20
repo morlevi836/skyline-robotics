@@ -13,8 +13,6 @@ src/
  ├─ components/    # Reusable UI components
  ├─ pages/         # Application pages
  ├─ hooks/         # Custom React hooks
- ├─ services/      # API calls / axios setup
- ├─ store/         # State management (Zustand/Redux if used)
  ├─ types/         # Global TypeScript types
  ├─ utils/         # Helper functions
  ├─ App.tsx        # Root component
